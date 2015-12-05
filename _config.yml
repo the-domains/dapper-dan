@@ -1,7 +1,7 @@
 name: DAPPER DAN
 favicon: null
 layout_spectrum: 0
-typography_spectrum: 0.48585
+typography_spectrum: 0.25374
 title: 'Look Fresh, Look Dapper.'
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#f0be2b'
     - '#7f7f81'
     - '#424244'
-  brandStrength: 0.5
+  brandStrength: 0.375
   lightness: 0.375
-  saturation: 0.5625
+  saturation: 0.1875
   rhythmicContrast: 0.5
 purpose: []
